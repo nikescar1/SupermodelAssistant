@@ -6,6 +6,10 @@ Current Unity version of this project is 2021.3.1f1
 
 The project is currently in a rough state and hasn't been touched in two years. It should work but your mileage may vary.
 
+# Release Installation
+1. Unzip
+2. Place Model3 roms in "SupermodelsAssistant\Supermodel\Roms" folder.
+
 # Release Usage
 Run "Supermodel's Assistant.exe".
 
