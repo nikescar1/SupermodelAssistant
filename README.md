@@ -2,6 +2,8 @@
 A Frontend for the Supermodel Sega Model 3 Emulator (Made in Unity)
 
 # Unity Project
+Current Unity version of this project is 2021.3.1f1
+
 The project is currently in a rough state and hasn't been touched in two years. It should work but your mileage may vary.
 
 # Release Usage
