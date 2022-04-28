@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: LeMans24
+  m_EditorClassIdentifier: 
+  gameName: Le Mans 24
+  gameSelectIcon: {fileID: 21300000, guid: a3acde1c5e86c8e42b9425083aced6d1, type: 3}
+  gameSynopsis: "AM3's trademark with race games has always been realism. And\r with
+    their first Model 3 racer, realism is gonna get a whole lot realer!\r\n\nStage
+    One: To find a suitable racing backdrop. AM3's choice - the Le Mans 24-hour endurance
+    race!\n\nStage Two: Bring it to life! And with Le Mans 24 that's exactly what
+    AM3 have done! Battle it out over the gruelling 24 hours with six of the world's
+    top car manufacturers, Mazda Speed, Porsche, Mercedes, McLaren, Nismo, and Ferrari.
+    Le Mans 24 has been designed to appeal to a wide audience, from beginners to
+    die-hard game fans. The car bodies and the race course are fully created with
+    the high level graphics only made possible by the power of the Model 3 CG board.
+    Sega's know-how and the latest technology combine to bring you the world of Le
+    Mans 24 in stunning realistic detail!\r\n"
+  flyerFront: {fileID: 21300000, guid: 422b646af1e8a45448eb306461756760, type: 3}
+  flyerRear: {fileID: 21300000, guid: 422b646af1e8a45448eb306461756760, type: 3}
+  bg: {fileID: 21300000, guid: ab8b6780dcb10ec4aadfb208b4ec816c, type: 3}
+  images:
+  - {fileID: 21300000, guid: 32270b66b71325e4fae6e2b2475eb4a5, type: 3}
+  gameVersions:
+  - name: Le Mans 24
+    fileName: lemans24.zip

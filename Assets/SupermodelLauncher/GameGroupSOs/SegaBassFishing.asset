@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: SegaBassFishing
+  m_EditorClassIdentifier: 
+  gameName: Sega Bass Fishing
+  gameSelectIcon: {fileID: 21300000, guid: 5bbd8815fa18eb048be240f526ad4c06, type: 3}
+  gameSynopsis: "At last, fishing without the creepy worm!\r\n\r\nYour timing has
+    to be perfect. Feel the bite transmitted through the rod and pull him in. Not
+    too hard! If you reel too forcibly, your rod will break and you'll lose that
+    fish forever. You get three shots at the big one, so you better make them all
+    count! A 50\" monitor, with vivid action scenes, throws you in the water with
+    real video footage. Sega's aquatic sound effects bring the water alive with true
+    detail! \r\n\r\nWith rod and reel in hand, find out who is better at the sport
+    of fishing, you or 24 different breed of fish.\r\n"
+  flyerFront: {fileID: 21300000, guid: 6f79387e06db61748a2113aa130d5942, type: 3}
+  flyerRear: {fileID: 21300000, guid: 8070414189d782c4cb4345f3f1338615, type: 3}
+  bg: {fileID: 21300000, guid: 8ed2c91ce73c12b448cfa78b64062e2d, type: 3}
+  images:
+  - {fileID: 21300000, guid: 90b26cbdf5787ef4a87e7791325a4add, type: 3}
+  gameVersions:
+  - name: Sega Bass Fishing
+    fileName: bass.zip
+  - name: Get Bass
+    fileName: getbass.zip

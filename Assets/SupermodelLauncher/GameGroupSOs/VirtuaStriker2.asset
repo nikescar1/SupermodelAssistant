@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: VirtuaStriker2
+  m_EditorClassIdentifier: 
+  gameName: Virtua Striker 2
+  gameSelectIcon: {fileID: 21300000, guid: 0f186b5897cd1a74b92f00891fb87bc0, type: 3}
+  gameSynopsis: "THE SOCCER GAME THAT TRANSFORMED THE ARCADE INTO A STADIUM IS BACK,
+    AND THIS TIME IT\u2019S BETTER THAN EVER!\r\n\r\nTHE WORLD'S TOP STRIKERS BATTLE
+    IT OUT! \nResponding to the wishes of fans, another 7 countries have been added
+    to the \"Virtua Striker 2\" line-up. A total of 24 countries now battle it out
+    in the hottest soccer action around!\r\n\r\nVIRTUA STRIKER 2 RECREATES THE SPEED
+    AND TECHNIQUES OF PROFESSIONAL SOCCER!\n \r\nVIRTUA STRIKER 2 uses the full capabilities
+    of the 3D-CG Model 3 board! Gorgeous 3D graphics beautifully recreate the look
+    of a real stadium and all the excitement and thrill of real soccer action. The
+    same simple controls as the previous version are used. This game is sure to attract
+    not only soccer fans, but a wide range of customers, from beginners to hard core
+    gamers. "
+  flyerFront: {fileID: 21300000, guid: a71dc04ee9433574d8ff40a215b46579, type: 3}
+  flyerRear: {fileID: 21300000, guid: 2e6e8b4893ec1aa45baeb7c48b5ca674, type: 3}
+  bg: {fileID: 21300000, guid: 262b906c37f73864489a4b7377ed283f, type: 3}
+  images:
+  - {fileID: 21300000, guid: 22f6091e51c9cb44bbe905ec0ed79a85, type: 3}
+  gameVersions:
+  - name: Virtua Striker 2 (Step 2.0)
+    fileName: vs2.zip
+  - name: Virtua Striker 2 (Step 1.5)
+    fileName: vs215.zip
+  - name: Virtua Striker 2 '98 (Step 2.0)
+    fileName: vs298.zip
+  - name: Virtua Striker 2 '98 (Step 1.5)
+    fileName: vs29815.zip
+  - name: Virtua Striker 2 '99
+    fileName: vs299.zip
+  - name: Virtua Striker 2 '99 (Rev. A)
+    fileName: vs299a.zip
+  - name: Virtua Striker 2 '99 (Rev. B)
+    fileName: vs299b.zip
+  - name: Virtua Striker 2 '99.1
+    fileName: vs2v991.zip

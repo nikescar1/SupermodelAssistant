@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: DirtDevils
+  m_EditorClassIdentifier: 
+  gameName: Dirt Devils
+  gameSelectIcon: {fileID: 21300000, guid: 67da1dd1ec89cc14abc1bea677e74c9d, type: 3}
+  gameSynopsis: "There is nothing clean about Dirt Racing!\r\n\nSega's R&D Team,
+    AM3, creators of incredibly successful Jurassic Park \"The Lost World\" and top
+    video game simulator Top Skater, take their technical genius to the road with
+    their latest project Dirt Devils.\r\n\nGet behind the wheel of one of five super
+    cars and experience the feel and strategy of real dirt racing. Hold on tight
+    as you slide your super-charged off-road vehicle through unbelievably sharp turns,
+    bottom-out in huge potholes, fly through dual level intersections, navigate through
+    watery swamps, and attempt driving at night with only your headlights to guide
+    you. A rear view mirror and onboard radar screen help you keep track of your
+    competition, as you race for glory, on Get behind the wheel of one of five one
+    of the 3 heart pounding courses. All this, while smashing into super cars and
+    experience your opponents car(s) and collecting valuable points, as you pass
+    all the checkpoints in the allotted time. \r\n"
+  flyerFront: {fileID: 21300000, guid: 1d84fb4bb689325469f1d1357cc5fa0d, type: 3}
+  flyerRear: {fileID: 21300000, guid: e89be738612c26249b3799a945fc0d0a, type: 3}
+  bg: {fileID: 21300000, guid: 51faf676cdb4e2d4e920212d96d66ad4, type: 3}
+  images:
+  - {fileID: 21300000, guid: 7016fbe879c0f78418db884a7a53d6a0, type: 3}
+  gameVersions:
+  - name: Dirt Devils
+    fileName: dirtdvls.zip
+  - name: Dirt Devils (Alternate)
+    fileName: dirtdvlsa.zip

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: Spikeout
+  m_EditorClassIdentifier: 
+  gameName: Spikeout
+  gameSelectIcon: {fileID: 21300000, guid: 4449ebf344ce2ec4f9799dbdf44d3afd, type: 3}
+  gameSynopsis: "The Ultimate Street\r Fighting Machine\r\n\r\nSega's R&D 2 Departments
+    AM2's revolutionary new 3-D fighting video game, SpikeOut, will certainly change
+    the face of fighting games. This unique concept allows players to determine the
+    course of each stage by traveling down main streets or back alley ways. Other
+    players may join in the fight at any time during the battle. These players may
+    choose to help the other players or go off on their own to fight their own battles.
+    If the players are successful in getting to the end of each stage, they must
+    then defeat the stages \"Big Boss\" to advance to the next stage.\r\n\nMultiple
+    weapons and power-ups, which increase the characters' life and fighting power,
+    can be found on each route."
+  flyerFront: {fileID: 21300000, guid: 805d1604a1513cc4eb6420d3c1b372fe, type: 3}
+  flyerRear: {fileID: 21300000, guid: 4d2f6a5f341808d4b967ed223cc79520, type: 3}
+  bg: {fileID: 21300000, guid: d01e221a1d5785845ae0e2f68eff48c1, type: 3}
+  images:
+  - {fileID: 21300000, guid: fbe6b59d357e94b4098ec13726056c45, type: 3}
+  gameVersions:
+  - name: Spikeout Final Edition
+    fileName: spikeofe.zip
+  - name: Spikeout
+    fileName: spikeout.zip

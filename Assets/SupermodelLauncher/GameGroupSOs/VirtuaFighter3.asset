@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: VirtuaFighter3
+  m_EditorClassIdentifier: 
+  gameName: Virtua Fighter 3
+  gameSelectIcon: {fileID: 21300000, guid: cb30ddec9c983b64c9465a1ab05ec760, type: 3}
+  gameSynopsis: 'IT''s Alive!
+
+
+    Better stand back, you have no idea how real
+    this will get! VIRTUA FIGHTER 3 delivers the most incredibly realistic action
+    ever! This fighting masterpiece brings us to a new dimension of video game action!
+
+
+    First
+    title to utilize Sega''s MODEL 3 Board! The Model 3 Board creates a level of
+    realism never-before-seen in video games. Virtua Fighter 3''s detailed graphics,
+    smooth motions and meticulously detailed backgrounds go above and beyond all
+    3D fighting games!
+
+'
+  flyerFront: {fileID: 21300000, guid: 9318b6155ef04e448a4c68f96f68bb3d, type: 3}
+  flyerRear: {fileID: 21300000, guid: 7cd48288796885547af522e20ad665a7, type: 3}
+  bg: {fileID: 21300000, guid: 5d1cdfba47e528447b4de7658920b891, type: 3}
+  images:
+  - {fileID: 21300000, guid: 8e8162f0978a9974f8d3fae4a7a9a4df, type: 3}
+  gameVersions:
+  - name: Virtua Fighter 3
+    fileName: vf3.zip
+  - name: Virtua Fighter 3 (Rev. A)
+    fileName: vf3a.zip
+  - name: Virtua Fighter 3 Team Battle
+    fileName: vf3tb.zip

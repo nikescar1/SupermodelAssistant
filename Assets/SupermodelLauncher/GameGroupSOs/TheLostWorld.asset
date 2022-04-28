@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: TheLostWorld
+  m_EditorClassIdentifier: 
+  gameName: The Lost World
+  gameSelectIcon: {fileID: 21300000, guid: 73a50173375aa12489247615df7cc3e7, type: 3}
+  gameSynopsis: "The First Ever Model 3 3D Shooting Game!\r\n\r\nSee, hear, feel
+    and submerge yourself into the action of the long awaited hit movie \u201CThe
+    Lost World: Jurassic Park\"!\r\n\r\nSince being released in the US in May, \"The
+    Lost World: Jurassic Park\" has become a huge hit, breaking box office records
+    around the country. Now SEGA brings you the game of the movie! The power of the
+    Model 3CG board has been fully harnessed.\n"
+  flyerFront: {fileID: 21300000, guid: 71313882ce848544fb61228d74aff0e8, type: 3}
+  flyerRear: {fileID: 21300000, guid: 33033610d64bbb54b8b09a48c8a456e3, type: 3}
+  bg: {fileID: 21300000, guid: 77cfe689c8e21f542aaf57131c902d90, type: 3}
+  images:
+  - {fileID: 21300000, guid: 009f4d8af45a6584b93ce28bf44e3056, type: 3}
+  gameVersions:
+  - name: The Lost World
+    fileName: lostwsga.zip

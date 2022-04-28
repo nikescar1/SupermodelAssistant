@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: VirtualOnOT
+  m_EditorClassIdentifier: 
+  gameName: Virtual On OT
+  gameSelectIcon: {fileID: 21300000, guid: fc661c8df4a42e34bbc1380c7bed0554, type: 3}
+  gameSynopsis: "You won't believe how frenetic and explosive! \n\nGiant virtuaroids
+    rule the arena, each with a unique weapons array and thirst for destruction.\r
+    And with only one thing in mind - your extinction.\r\n\nKeeping the classic mech
+    fighting style, Virtual On returns with Virtual-On: Oratorio Tangram! You control
+    one of several robotic beasts from the delicate Angelan to the big, powerful
+    Raiden as you try to wipe out your competition in a series of lush, 3D environments.
+    Each of the three different weapons can have altering effects depending on the
+    situation their employed and the movement of your mech. Virtual-On Oratorio Tangram
+    improves upon the hit original game with two new mechs and revised play mechanics."
+  flyerFront: {fileID: 21300000, guid: b6413a79afb6c88478b5e069746b782c, type: 3}
+  flyerRear: {fileID: 21300000, guid: 351f08da45eb6d443a89601b8d640794, type: 3}
+  bg: {fileID: 21300000, guid: 56e8b64d2eacb2545ba4dfebe564680e, type: 3}
+  images:
+  - {fileID: 21300000, guid: 3bb7debb5ab0fbf4790c542326122629, type: 3}
+  gameVersions:
+  - name: Virtual On Oratorio Tangram
+    fileName: von2.zip
+  - name: Virtual On Oratorio Tangram (Ver. 5.4g)
+    fileName: von254g.zip

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: LAMachineguns
+  m_EditorClassIdentifier: 
+  gameName: LA Machineguns
+  gameSelectIcon: {fileID: 21300000, guid: a7c720edb2a6c6747b0164cd7ff81e58, type: 3}
+  gameSynopsis: 'Let''s get it on
+
+
+    In the year 2025 a ruthless band of Androids
+    known as R.O.M. (Rage of the Machines) invades the West Coast of the United States.
+    Their obiective - total domination of the planet. The Invasion is a well-executed
+    series of surgical assaults on key western cities. You''re a member of the federal
+    government''s top secret counterterrorist task force, S.I.F.A.T. (Special Intelligence
+    Forces Against Terrorism). Your mission, to neutralize with extreme prejudice
+    the invading forces. Right about now. you''re beginning to love your work
+
+
+    Never-experienced
+    before airborne battles shaped by awesome graphics and gripping sound effects
+    Faithful recreations of actual cities such as L.A. and Las Vegas. Fleeing inhabitants,
+    finely detailed threedimensional images and sweeping camera work succeed in creating
+    an impact and magnitude on par with the cinematic experience. The breathtaking
+    production quality is sure to electrify the arcade area!
+
+'
+  flyerFront: {fileID: 21300000, guid: 8c9d77798f3136c41a27da0fd0ffd95a, type: 3}
+  flyerRear: {fileID: 21300000, guid: b4335a16bdf26964c874cafb86d0c74c, type: 3}
+  bg: {fileID: 21300000, guid: 3bd9852d3c12f3e45afcccf21c77fbe5, type: 3}
+  images:
+  - {fileID: 21300000, guid: 1b129d9666ea89c40ae374026863310e, type: 3}
+  gameVersions:
+  - name: L.A. Machineguns
+    fileName: lamachin.zip

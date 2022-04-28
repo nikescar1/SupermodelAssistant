@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: MagicalTruckAdventure
+  m_EditorClassIdentifier: 
+  gameName: Magical Truck Adventure
+  gameSelectIcon: {fileID: 21300000, guid: 18619960b73e7f541b477e8a4c5cfc2e, type: 3}
+  gameSynopsis: "Sega takes Inter-Active Action to the extreme with exciting \u201CMagical\r
+    Truck Adventure\"\r\n\nMagical Truck Adventure, featuring Sega's Model 3 Step
+    2.0/2.1 technology, gives the player the feel of actually riding a rail car.
+    An action-pedal and truck lever assist the player in chasing, jumping, and dodging
+    the evil villains that threaten to steal Alma's precious stone. All this excitement
+    takes place on a railroad track, with 6 amazingly detailed scenic routes. The
+    3 challenging stages include an array of obstacles, wild Rhino's, hungry crocodiles,
+    and speeding trains, to name a few. An additional challenge is in preventing
+    the rail track from being destroyed, which will ensure a quick end to the Magical
+    Truck Adventure. Magical Truck Adventure, a sure way to bring inter-active game
+    play to any location!\r\n"
+  flyerFront: {fileID: 21300000, guid: fd76c8cb95bcab9499340df8e9b8d474, type: 3}
+  flyerRear: {fileID: 21300000, guid: d69ae8d62af930143ab7cc1384095962, type: 3}
+  bg: {fileID: 21300000, guid: 2cc3418a2ef87ca42b6500edf1d8fb1d, type: 3}
+  images:
+  - {fileID: 21300000, guid: ac5b811a5c3dc7e46a79a8891ea3a1da, type: 3}
+  gameVersions:
+  - name: Magical Truck Adventure
+    fileName: magtruck.zip

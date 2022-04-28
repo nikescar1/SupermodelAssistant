@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: DaytonaUSA2
+  m_EditorClassIdentifier: 
+  gameName: Daytona USA 2
+  gameSelectIcon: {fileID: 21300000, guid: cbf84aba13c33974ba7e7e438c6a4cbf, type: 3}
+  gameSynopsis: "The Force, the Speed, the Reality!\r\n\nStick the Pedal to the Metal
+    \n\nWith vibrant colors and roaring engines, race well known stock cars around
+    the track at unlimited speeds. Drivers stick the pedal to metal while zooming
+    through banks and turns. Using the slipstream to judge the drift before passing
+    cars, drivers thrill crowds with the exciting close-up action! However, proceed
+    with caution! Get too close and drivers can end up crashing so hard that you'll
+    see sparks fly! \r\n\nThe inspiring power of the Model 3 Step 2.0 board outputs
+    over 1 million polygons per second creating precise visuals of the racetrack
+    and cars' chassis, even accomplishing the smoke and flames! The newest technologies
+    combined with Sega's unsurpassed know-how contribute to the stunning simulation
+    or real-life stock car racing! \r\n"
+  flyerFront: {fileID: 21300000, guid: 45bb7b32ac174494394fdce9ec537eea, type: 3}
+  flyerRear: {fileID: 21300000, guid: 73aab92f294812a46b3d4f5de3e656d2, type: 3}
+  bg: {fileID: 21300000, guid: 05cba525816d0f2469e5fb178d3c2ed6, type: 3}
+  images:
+  - {fileID: 21300000, guid: 1c1d8f259a572e74081ec88141f1210a, type: 3}
+  gameVersions:
+  - name: Daytona USA 2 Battle on the Edge
+    fileName: daytona2.zip
+  - name: Daytona USA 2 Power Edition
+    fileName: dayto2pe.zip

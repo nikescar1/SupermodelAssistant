@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84d5cb41b8dfe54888664e9df95f981, type: 3}
+  m_Name: EmergencyCallAmbulance
+  m_EditorClassIdentifier: 
+  gameName: Emergency Call Ambulance
+  gameSelectIcon: {fileID: 21300000, guid: ac1d152a07597584bb47210422c0df4f, type: 3}
+  gameSynopsis: "It's the Fourth Installment of the Sega Professional Series!\n\nRace
+    not for your life, but for the lives of others!\n\nTraffic accidents, violent
+    crimes, fires-these are all crises which afflict modern society. Ambulance attendants
+    race day and night to save the victims of these calamities. Now there is a driving
+    game which enables you\r to share these dramatic experiences.\r\n\nBecome an
+    Emergency Medical Technician, in Sega's latest Real Life Career Series game,
+    Emergency Call Ambulance. Day or night, you're on the call! Race to the scene
+    of a serious traffic accident, spectacular fire or senseless act of big city
+    violence. You're mission, get the injured to the hospital emergency room as quickly
+    and safely as possible!\n"
+  flyerFront: {fileID: 21300000, guid: 348efec7161873b43b07e8284f23d21f, type: 3}
+  flyerRear: {fileID: 21300000, guid: 42e685bf5aa0cbc459502056396b920b, type: 3}
+  bg: {fileID: 21300000, guid: 016442800f2cbd94186d844d6f459460, type: 3}
+  images:
+  - {fileID: 21300000, guid: 73b85f1471552da44a00244961a55d08, type: 3}
+  gameVersions:
+  - name: Emergency Call Ambulance
+    fileName: eca.zip
+  - name: Emergency Call Ambulance (Export)
+    fileName: ecax.zip
