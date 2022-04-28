@@ -1,4 +1,4 @@
-# SupermodelAssistant
+# Supermodel's Assistant
 A Frontend for the Supermodel Sega Model 3 Emulator (Made in Unity)
 
 
