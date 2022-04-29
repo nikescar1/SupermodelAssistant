@@ -1,5 +1,5 @@
 # Supermodel's Assistant
-A Frontend for the Supermodel Sega Model 3 Emulator (Made in Unity)
+A Frontend for the Supermodel Sega Model 3 Emulator https://www.supermodel3.com/About.html
 
 # Unity Project
 Current Unity version of this project is 2021.3.1f1
